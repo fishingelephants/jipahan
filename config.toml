@@ -1,7 +1,6 @@
 baseurl = "https://example.org/"
 languageCode = "en-us"
-title = "Hugo Creative Theme"
-theme = "hugo-creative-theme"
+title = "Jipahan the photographer"
 googleAnalytics = ""
 
 [params]
