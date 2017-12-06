@@ -1,7 +1,6 @@
 baseurl = "https://example.org/"
 languageCode = "en-us"
-title = "Hugo Creative Theme"
-theme = "hugo-creative-theme"
+title = "HaziqFarhan, the photographer"
 googleAnalytics = ""
 
 [params]
@@ -29,7 +28,7 @@ googleAnalytics = ""
 
 	# Navigation
 	[params.navigation]
-		brand = "Hugo Creative Theme"
+		brand = "Haziq Farhan"
 
 		[params.navigation.links]
 			about     = "About"
@@ -41,7 +40,7 @@ googleAnalytics = ""
 	# Hero section
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
-		slogan     = "Your awesome slogan"
+		slogan     = "Your neighbourhood photographer"
 		subtitle   = "[Lorem](//google.com) ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis nesciunt consequatur ut nihil voluptatem fugiat eos eveniet alias in veniam?"
 		buttonText = "Find out more"
 
@@ -59,23 +58,23 @@ googleAnalytics = ""
 
         [[params.services.list]]
             icon = "fa-diamond"
-            title = "Sturdy Templates"
-            description = "Our templates are updated regularly so they don't break."
+            title = "Precious Moments"
+            description = "No moments left out. We shoot diligently."
 
         [[params.services.list]]
 			icon = "fa-paper-plane"
 			title = "Ready to Ship"
-			description = "You can use this theme as is, or you can make changes!"
+			description = "You will get everything, including the raws!"
 
 		[[params.services.list]]
             icon = "fa-newspaper-o"
-            title = "Up to Date"
-            description = "We update dependencies to keep things fresh."
+            title = "Revisions"
+            description = "We provide revisions to keep things fresh."
 
         [[params.services.list]]
             icon = "fa-heart"
             title = "Made with Love"
-            description = "You have to make your websites with love these days!"
+            description = "We will handle with care like our own baby!"
 
 
     # Portfolio modals
@@ -87,7 +86,7 @@ googleAnalytics = ""
 
     # Aside section
 	[params.aside]
-		headline = "Get the Creative Theme for Hugo"
+		headline = "Get the quotation"
 
 		[params.aside.button]
 			text = "Download now"
