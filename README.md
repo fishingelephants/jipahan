@@ -1,1 +1,2 @@
-This is the README for jipahan.com
+# Photography Portfolio Project
+## https://cocky-joliot-1e11fd.netlify.com/
